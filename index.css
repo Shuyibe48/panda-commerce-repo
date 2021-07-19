@@ -1,0 +1,15 @@
+body{
+    margin: 9;
+    padding: 0;
+}
+.price{
+    color: #FF136F
+}
+.slider-bg{
+    background-color: #FEEAE9
+    ;
+}
+.slider-show{
+    margin: 0;
+    padding: 0;
+}
