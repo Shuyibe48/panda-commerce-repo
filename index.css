@@ -13,3 +13,6 @@ body{
     margin: 0;
     padding: 0;
 }
+.border-radius{
+    border-radius: 20px;
+}
